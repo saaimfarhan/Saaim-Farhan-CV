@@ -1,3 +1,6 @@
+<h1> Hello and Welcome!</h1>
+<img src="IMG_4982.jpg" height="500" >
+
 Certifications:
 
 • <a href = "https://drive.google.com/file/d/1JyzOdEgfmH6UaYhdwlKmWICkkbH9N6bS/view?usp=sharing">  Cisco Introduction to Cybersecurity Certfication</a>
