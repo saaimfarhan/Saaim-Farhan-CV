@@ -1,6 +1,6 @@
 <h1> Hello and Welcome!</h1>
 
-Certifications:
+<h3> Certifications: </h3>
 
 • <a href = "https://drive.google.com/file/d/1JyzOdEgfmH6UaYhdwlKmWICkkbH9N6bS/view?usp=sharing">  Cisco Introduction to Cybersecurity Certfication</a>
 
