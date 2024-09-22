@@ -1,5 +1,4 @@
 <h1> Hello and Welcome!</h1>
-<img src="IMG_4982.jpg" height="500" >
 
 Certifications:
 
