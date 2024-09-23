@@ -9,3 +9,5 @@
 <h3> Socials: </h3>
 
 • <a href = "http://linkedin.com/in/saaim-f-0689731a4"> LinkedIn</a>
+
+• <a href = "https://www.tiktok.com/@cyber.times?_t=8px65cDIZv5&_r=1>" TikTok</a>
