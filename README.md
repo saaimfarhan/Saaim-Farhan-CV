@@ -7,9 +7,11 @@
 • <a href = "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_mbk3yZPQm4hDvkX6K_1726799246502_completion_certificate.pdf">  Mastercard Cybersecurity Job Simulation Certification</a>
 
 <h3> Skills Showcase: </h3>
+• <a href = "https://monkeytype.com/profile/saaimmmm"> Monkeytype</a>
+
 • <a href = "https://leetcode.com/u/sfarhan26/"> LeetCode</a>
 
-• <a href = "https://monkeytype.com/profile/saaimmmm"> Monkeytype</a>
+
 
 <h3> Socials: </h3>
 
